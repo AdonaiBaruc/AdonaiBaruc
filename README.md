@@ -1,6 +1,6 @@
 || Main Projects |
 |-|-|
-| [Regional Political Advise](https://github.com/Regional-Political-Advise) | Currently working on a project for my University about an Organization which objective is spreading information regarding potential political candidates across the South American Region. |
+| [Regional Political Advise](https://github.com/AdonaiBaruc/Regional-Political-Advise) | Currently working on a project for my University about an Organization which objective is spreading information regarding potential political candidates across the South American Region. |
 
 || Tecnologia para la Gestion (USS)  |
 |-|-|

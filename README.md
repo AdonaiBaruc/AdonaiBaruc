@@ -2,7 +2,7 @@
 |-|-|
 | [Regional Political Advise](https://github.com/Regional-Political-Advise) | Currently working on a project for my University about an Organization which objective is spreading information regarding potential political candidates across the South American Region. |
 
-|| Tecnologia para la Gestion USS  |
+|| Tecnologia para la Gestion (USS)  |
 |-|-|
 | [First Semester](https://github.com/AdonaiBaruc/Tecnologia-1) | Works that I have done within my first semester of university within the subject "Technology for Management" with Professor Kenneth Bunker. |
 

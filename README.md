@@ -4,7 +4,7 @@
 
 || Tecnologia para la Gestion USS  |
 |-|-|
-| [Primer Semestre](https://github.com/AdonaiBaruc/Tecnologia-1) | Works that I have done within my first semester of university within the subject "Technology for Management" with Professor Kenneth Bunker. |
+| [First Semester](https://github.com/AdonaiBaruc/Tecnologia-1) | Works that I have done within my first semester of university within the subject "Technology for Management" with Professor Kenneth Bunker. |
 
 
 <!---
